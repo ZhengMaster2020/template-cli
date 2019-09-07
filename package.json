@@ -1,0 +1,20 @@
+{
+  "name": "template-cli",
+  "version": "{{version}}",
+  "description": "{{description}}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhengMaster2020/template-cli.git"
+  },
+  "keywords": [],
+  "author": "{{autor}}",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhengMaster2020/template-cli/issues"
+  },
+  "homepage": "https://github.com/ZhengMaster2020/template-cli#readme"
+}
