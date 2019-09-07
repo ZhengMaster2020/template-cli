@@ -11,7 +11,7 @@
     "url": "git+https://github.com/ZhengMaster2020/template-cli.git"
   },
   "keywords": [],
-  "author": "{{autor}}",
+  "author": "{{author}}",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ZhengMaster2020/template-cli/issues"
