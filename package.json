@@ -2,7 +2,7 @@
   "name": "template-cli",
   "version": "{{version}}",
   "description": "{{description}}",
-  "main": "index.js",
+  "main": "mian.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
